@@ -11,3 +11,9 @@
 <p align="center">
 <img src="images/bubble_sort.png">
 </p>
+
+## quick sort
+
+<p align="center">
+<img src="images/quick_sort.png">
+</p>
