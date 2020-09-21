@@ -17,3 +17,9 @@
 <p align="center">
 <img src="images/quick_sort.png">
 </p>
+
+## insertion sort
+
+<p align="center">
+<img src="images/insertion_sort.png">
+</p>
