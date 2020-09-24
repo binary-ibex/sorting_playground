@@ -23,3 +23,10 @@
 <p align="center">
 <img src="images/insertion_sort.png">
 </p>
+
+
+## merg sort
+
+<p align="center">
+<img src="images/merg_sort.png">
+</p>
